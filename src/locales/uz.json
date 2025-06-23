@@ -1,0 +1,11 @@
+{
+  "title": "Xush kelibsiz",
+  "description": "Bu React va i18next yordamida yaratilgan ko‘p tilli interfeys.",
+  "button": "Boshlash",
+  "features": {
+    "f1": "Cheksiz sahifalar yarating",
+    "f2": "Jamoa bilan hamkorlik qiling",
+    "f3": "O‘z tilingizda yozing"
+  },
+  "footer": "© 2025 Barcha huquqlar himoyalangan."
+}

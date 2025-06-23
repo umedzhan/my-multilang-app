@@ -1,0 +1,11 @@
+{
+  "title": "Welcome",
+  "description": "This is a multilingual interface built with React and i18next.",
+  "button": "Get Started",
+  "features": {
+    "f1": "Create unlimited pages",
+    "f2": "Collaborate with your team",
+    "f3": "Write in your language"
+  },
+  "footer": "© 2025 All rights reserved."
+}
